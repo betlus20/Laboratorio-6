@@ -1,2 +1,2 @@
-# Laboratorio-6
+# Laboratorio6
 En este repositorio se verá la práctica 6
